@@ -33,21 +33,32 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                 coming...
             </td>
             <td>
-                <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 128px" />
+                <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
                 <p>
                     eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
                 </p>
-                <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 128px" />
+                <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
                 <p>
                     A common abstraction for bridging into the DOM from WebAssembly or WebSockets
                 </p>
-                <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 128px" />
+                <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
                 <p>
                     A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
                 </p>
             </td>
             <td>
-                coming...
+                <img src="https://brand.web4.dev/restful2/logo/dark.svg" style="height: 64px" />
+                <p>
+                    RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
+                </p>
+                <img src="https://brand.web4.dev/syncql/logo/dark.svg" style="height: 64px" />
+                <p>
+                    Offline mode and query listeners with traditional SQL databases as the backing store
+                </p>
+                <img src="https://brand.web4.dev/systemui/logo/dark.svg" style="height: 64px" />
+                <p>
+                    A component library that mimics the look-and-feel of its surrounding OS – one app, multiple design systems
+                </p>
             </td>
         </tr>
     </tbody>
@@ -87,3 +98,16 @@ Local-first applications (LFA) emphasize function over content.  Typical categor
   Bidirectional protocols enable local-first synchronizations and apps continue to function even without a network connection.
 - **Zero-Cost Dependencies**<br />
   When applications execute remotely, binaries can grow to gigabytes in size without impacting user experience because they are never transferred to the browser.
+
+Get Involved
+------------
+
+The Web4 Foundation is an open collaboration between language communities, framework authors, and developers interested in advancing the web platform.
+
+Ways to contribute:
+- ⭐ Follow and star repositories to stay up to date.  Vote for your favorite language!
+- 🐛 Report issues or suggest improvements
+- 💬 Join discussions in spec repositories
+- 🛠 Contribute code to language SDKs
+- 📊 Help with benchmarks and interoperability testing
+- 📚 Improve documentation and examples
