@@ -35,53 +35,84 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
             <td>
                 Reference implementation
                 <br /><br />
-                <a href="https:github.com/web4foundation/web4-dotnet">
+                <a href="https://github.com/web4foundation/web4-dotnet">
                     <img src="https://brand.web4.dev/sdks/dotnet/dark/love.svg" style="width: 300px" />
                 </a>
-                <br /><br /><br /><br />
+                <br /><br /><br />
                 Contributors needed
                 <br /><br />
-                <img src="https://brand.web4.dev/sdks/java/dark/love.svg" style="width: 300px" /><br /><br />
-                <img src="https://brand.web4.dev/sdks/go/dark/love.svg" style="width: 300px" /><br /><br />
-                <img src="https://brand.web4.dev/sdks/kotlin/dark/love.svg" style="width: 300px" /><br /><br />
-                <img src="https://brand.web4.dev/sdks/swift/dark/love.svg" style="width: 300px" /><br /><br />
-                <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" /><br /><br />
-                <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" /><br /><br />
-                <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" /><br /><br />
+                <a href="https://github.com/web4foundation/web4-java">
+                    <img src="https://brand.web4.dev/sdks/java/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
+                <a href="https://github.com/web4foundation/web4-go">
+                    <img src="https://brand.web4.dev/sdks/go/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
+                <a href="https://github.com/web4foundation/web4-kotlin">
+                    <img src="https://brand.web4.dev/sdks/kotlin/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
+                <a href="https://github.com/web4foundation/web4-swift">
+                    <img src="https://brand.web4.dev/sdks/swift/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
+                <a href="https://github.com/web4foundation/web4-javascript">
+                    <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
+                <a href="https://github.com/web4foundation/web4-ruby">
+                    <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
+                <a href="https://github.com/web4foundation/web4-python">
+                    <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" />
+                </a>
+                <br /><br />
             </td>
             <td>
-                <a href="https:github.com/web4foundation/xtml">
+                <a href="https://github.com/web4foundation/xtml">
                     <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
                     <p style="text-align: left">
                         eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
                     </p>
                 </a>
                 <br /><br />
-                <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
-                <p style="text-align: left">
-                    A common abstraction for bridging into the DOM from WebAssembly or WebSockets
-                </p>
+                <a href="https://github.com/web4foundation/keyholes">
+                    <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
+                    <p style="text-align: left">
+                        A common abstraction for bridging into the DOM from WebAssembly or WebSockets
+                    </p>
+                </a>
                 <br /><br />
-                <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
-                <p style="text-align: left">
-                    A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
-                </p>
+                <a href="https://github.com/web4foundation/htmlbench">
+                    <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
+                    <p style="text-align: left">
+                        A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
+                    </p>
+                </a>
             </td>
             <td>
-                <img src="https://brand.web4.dev/restful2/logo/dark.svg" style="height: 64px" />
-                <p>
-                    RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
-                </p>
+                <a href="https://github.com/web4foundation/restful2">
+                    <img src="https://brand.web4.dev/restful2/logo/dark.svg" style="height: 64px" />
+                    <p>
+                        RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
+                    </p>
+                </a>
                 <br /><br />
-                <img src="https://brand.web4.dev/syncql/logo/dark.svg" style="height: 64px" />
-                <p>
-                    Offline mode and query listeners with traditional SQL databases as the backing store
-                </p>
+                <a href="https://github.com/web4foundation/syncql">
+                    <img src="https://brand.web4.dev/syncql/logo/dark.svg" style="height: 64px" />
+                    <p>
+                        Offline mode and query listeners with traditional SQL databases as the backing store
+                    </p>
+                </a>
                 <br /><br />
-                <img src="https://brand.web4.dev/systemui/logo/dark.svg" style="height: 64px" />
-                <p>
-                    A component library that mimics the look-and-feel of its surrounding OS – one app, multiple design systems
-                </p>
+                <a href="https://github.com/web4foundation/systemui">
+                    <img src="https://brand.web4.dev/systemui/logo/dark.svg" style="height: 64px" />
+                    <p>
+                        A component library that mimics the look-and-feel of its surrounding OS – one app, multiple design systems
+                    </p>
+                </a>
             </td>
         </tr>
     </tbody>
