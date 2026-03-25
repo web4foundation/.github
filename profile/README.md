@@ -89,8 +89,8 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                     A common abstraction for bridging into the DOM from WebAssembly or WebSockets
                 </p>
                 <br /><br />
-                <a href="https://github.com/web4foundation/htmlbench">
-                    <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
+                <a href="https://github.com/web4foundation/html-bench">
+                    <img src="https://brand.web4.dev/html-bench/logo/dark.svg" style="width: 92px" />
                 </a>
                 <p>
                     A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
@@ -112,7 +112,7 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                 </p>
                 <br /><br />
                 <a href="https://github.com/web4foundation/system-ui">
-                    <img src="https://brand.web4.dev/systemui/logo/dark.svg" style="height: 64px" />
+                    <img src="https://brand.web4.dev/system-ui/logo/dark.svg" style="height: 64px" />
                 </a>
                 <p>
                     A component library that mimics the look-and-feel of its surrounding OS – one app, multiple design systems
