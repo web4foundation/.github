@@ -74,21 +74,21 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                 <a href="https://github.com/web4foundation/xtml">
                     <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
                 </a>
-                <p style="text-align: left">
+                <p>
                     eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
                 </p>
                 <br /><br />
                 <a href="https://github.com/web4foundation/keyholes">
                     <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
                 </a>
-                <p style="text-align: left">
+                <p>
                     A common abstraction for bridging into the DOM from WebAssembly or WebSockets
                 </p>
                 <br /><br />
                 <a href="https://github.com/web4foundation/htmlbench">
                     <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
                 </a>
-                <p style="text-align: left">
+                <p>
                     A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
                 </p>
             </td>
@@ -107,7 +107,7 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                     Offline mode and query listeners with traditional SQL databases as the backing store
                 </p>
                 <br /><br />
-                <a href="https://github.com/web4foundation/systemui">
+                <a href="https://github.com/web4foundation/system-ui">
                     <img src="https://brand.web4.dev/systemui/logo/dark.svg" style="height: 64px" />
                 </a>
                 <p>
