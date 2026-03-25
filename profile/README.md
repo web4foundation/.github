@@ -1,5 +1,7 @@
 # The Web4 Foundation
 
+<img src="https://brand.web4.dev/web4/header/dark.svg" />
+
 About
 -----
 
