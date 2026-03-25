@@ -33,19 +33,19 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
     <tbody>
         <tr>
             <td>
-                Reference Implementation
+                Reference implementation
                 <br /><br />
                 <img src="https://brand.web4.dev/sdks/dotnet/dark/love.svg" style="width: 300px" />
                 <br /><br />
                 Contributors needed
                 <br /><br />
-                <img src="https://brand.web4.dev/sdks/java/dark/love.svg" style="width: 300px" /><br />
-                <img src="https://brand.web4.dev/sdks/go/dark/love.svg" style="width: 300px" /><br />
-                <img src="https://brand.web4.dev/sdks/kotlin/dark/love.svg" style="width: 300px" /><br />
-                <img src="https://brand.web4.dev/sdks/swift/dark/love.svg" style="width: 300px" /><br />
-                <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" /><br />
-                <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" /><br />
-                <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/java/dark/love.svg" style="width: 300px" /><br /><br />
+                <img src="https://brand.web4.dev/sdks/go/dark/love.svg" style="width: 300px" /><br /><br />
+                <img src="https://brand.web4.dev/sdks/kotlin/dark/love.svg" style="width: 300px" /><br /><br />
+                <img src="https://brand.web4.dev/sdks/swift/dark/love.svg" style="width: 300px" /><br /><br />
+                <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" /><br /><br />
+                <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" /><br /><br />
+                <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" /><br /><br />
                 <p>
                     eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
                 </p>
@@ -55,10 +55,12 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                 <p>
                     eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
                 </p>
+                <br /><br />
                 <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
                 <p>
                     A common abstraction for bridging into the DOM from WebAssembly or WebSockets
                 </p>
+                <br /><br />
                 <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
                 <p>
                     A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
@@ -69,10 +71,12 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                 <p>
                     RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
                 </p>
+                <br /><br />
                 <img src="https://brand.web4.dev/syncql/logo/dark.svg" style="height: 64px" />
                 <p>
                     Offline mode and query listeners with traditional SQL databases as the backing store
                 </p>
+                <br /><br />
                 <img src="https://brand.web4.dev/systemui/logo/dark.svg" style="height: 64px" />
                 <p>
                     A component library that mimics the look-and-feel of its surrounding OS – one app, multiple design systems
