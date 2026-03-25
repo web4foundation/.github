@@ -32,7 +32,7 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
     </thead>
     <tbody>
         <tr>
-            <td>
+            <td style="width: 200px; padding: 64px">
                 Reference implementation
                 <br /><br />
                 <img src="https://brand.web4.dev/sdks/dotnet/dark/love.svg" style="width: 300px" />
@@ -46,27 +46,24 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
                 <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" /><br /><br />
                 <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" /><br /><br />
                 <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" /><br /><br />
-                <p>
-                    eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
-                </p>
             </td>
-            <td>
+            <td style="text-align: center; width: 200px; padding: 64px">
                 <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
-                <p>
+                <p style="text-align: left">
                     eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
                 </p>
                 <br /><br />
                 <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
-                <p>
+                <p style="text-align: left">
                     A common abstraction for bridging into the DOM from WebAssembly or WebSockets
                 </p>
                 <br /><br />
                 <img src="https://brand.web4.dev/htmlbench/logo/dark.svg" style="width: 92px" />
-                <p>
+                <p style="text-align: left">
                     A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
                 </p>
             </td>
-            <td>
+            <td style="width: 200px; padding: 64px">
                 <img src="https://brand.web4.dev/restful2/logo/dark.svg" style="height: 64px" />
                 <p>
                     RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
