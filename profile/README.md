@@ -16,21 +16,39 @@ The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code
             <th>
                 <h3>SDKs</h3>
                 A monorepo for each language allowing each ecosystem to leverage its own idioms and tooling.
+                <br /><br />
             </th>
             <th>
                 <h3>Specs</h3>
                 Specs, discussions, issues, and benchmarks.  Intentionally contains little or no implementation code.
+                <br /><br />
             </th>
             <th>
                 <h3>Tools</h3>
                 Local-first applications require new capabilities across the traditional development stack.
+                <br /><br />
             </th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>
-                coming...
+                Reference Implementation
+                <br /><br />
+                <img src="https://brand.web4.dev/sdks/dotnet/dark/love.svg" style="width: 300px" />
+                <br /><br />
+                Contributors needed
+                <br /><br />
+                <img src="https://brand.web4.dev/sdks/java/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/go/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/kotlin/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/swift/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" /><br />
+                <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" /><br />
+                <p>
+                    eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
+                </p>
             </td>
             <td>
                 <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
