@@ -20,8 +20,8 @@
 
 <!--
   Compile your HTML to...
-  • a binary for multiplayer-reactivity + zero-cost dependencies  (mutates the DOM from the server)
-  • WebAssembly for offline-reactivity + static hosting           (mutates the DOM from WebAssembly)
+    • a binary for multiplayer-reactivity + zero-cost dependencies  (mutates the DOM from the server)
+    • WebAssembly for offline-reactivity + static hosting           (mutates the DOM from WebAssembly)
 -->
 ```
 
