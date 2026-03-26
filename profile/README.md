@@ -31,7 +31,7 @@
 About
 -----
 
-The Web4 Foundation is a nonprofit organization dedicated to the advancement of the open web through its fourth chapter: local-first, native webapps. The foundation is currently being organized as a 501(c)(6). Formal status is in progress.  Similar to organizations like W3C and WHATWG, the Web4 Foundation also stewards, defines, and extends the standards of the open web. However, its scope of influence is not targeted to browser vendors but rather to language communities. Web4’s directive is to support the implementation of these standards in execution contexts that run extramurally or adjacent to the core web browser – specifically edge servers and WebAssembly.
+The Web4 Foundation is a nonprofit organization dedicated to the advancement of the open web through its fourth chapter: local-first, native webapps. The foundation is currently being organized as a 501(c)(6). Formal status is in progress.  Similar to organizations like W3C and WHATWG, the Web4 Foundation also stewards, defines, and extends the standards of the open web. However, since Web4 executes extramurally instead of inside the browser, its scope of influence is not targeted towards browser vendors but rather towards language communities. Web4’s directive is to support the consistent implementation of these standards across all language communities to maximize skill-portability and minimize framework-fatigue.
 
 Repos
 -----
