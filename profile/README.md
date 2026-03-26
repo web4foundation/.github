@@ -218,7 +218,7 @@ Local-first applications (LFA) emphasize function over content.  Typical categor
 Get Involved
 ------------
 
-The Web4 Foundation is an open collaboration between language communities, framework authors, and developers interested in advancing the web platform.
+The Web4 Foundation is an open collaboration between language communities interested in advancing the web platform.
 
 Ways to contribute:
 - ⭐ Follow and star repositories to stay up to date.  Vote for your favorite language!
