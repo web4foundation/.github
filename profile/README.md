@@ -2,6 +2,29 @@
 <img src="https://brand.web4.dev/web4/header/dark.svg" />
 <br /><br /><br /><br />
 
+```html
+<!-- MyButton.html -->
+
+<script lang="C#">
+    // 🚨🚨🚨  ⬆︎ ANY language!
+    void OnClick(Event e)
+    {
+        c++;
+    }
+</script>
+
+<button onclick={e => OnClick(e)}>
+    Clicks:  {c}
+    <!--🚨🚨🚨 ⬆︎ Reactivity as an HTML-primitive, no framework! -->
+</button>
+
+<!--
+  Compile your HTML to...
+  • a binary for multiplayer-reactivity + zero-cost dependencies  (mutates the DOM from the server)
+  • WebAssembly for offline-reactivity + static hosting           (mutates the DOM from WebAssembly)
+-->
+```
+
 About
 -----
 
