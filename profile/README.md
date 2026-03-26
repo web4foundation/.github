@@ -36,20 +36,21 @@ The Web4 Foundation is a nonprofit organization dedicated to the advancement of 
 Repos
 -----
 
-The Web4 Foundation is an ecosystem of ecosystems.  Several repos are “no-code” repos and serve as a common area for all language communities to work together on issues, discussions, and documentation which then get implemented in dedicated SDK-repos, one for to each language community.
+This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fit into one of three categories.
+- **SDKs**<br />Each language community can build independently without the burden of conflicting conventions and idioms.
+- Specs<br />Contains no implementation code.  Used as a common area for cross-langage discussions, issues, benchmarks, documentation, and specifications.  
+- **Tools**<br />Usually only implemented once in whatever language is the best tool for the job.
 
 ### SDKs
-Unique repos for each language so each ecosystem can maximize their own own idioms and tooling
 
-#### Reference implementation
 <a href="https://github.com/web4foundation/web4-dotnet">
     <picture>
         <source srcset="https://brand.web4.dev/sdks/dotnet/dark/love.svg" media="(prefers-color-scheme: dark)">
         <img src="https://brand.web4.dev/sdks/dotnet/light/love.svg" style="width: 300px">
     </picture>
 </a>
-
-#### Contributors needed
+&nbsp;&nbsp;&nbsp;(reference implementation)
+<br /><br />
 <a href="https://github.com/web4foundation/web4-java">
     <picture>
         <source srcset="https://brand.web4.dev/sdks/java/dark/love.svg" media="(prefers-color-scheme: dark)">
@@ -100,7 +101,6 @@ Unique repos for each language so each ecosystem can maximize their own own idio
 </a>
 
 ### Specs
-Specs, discussions, issues, and benchmarks.  Intentionally contains little or no implementation code.
 
 <table>
     <tr>
@@ -141,7 +141,6 @@ Specs, discussions, issues, and benchmarks.  Intentionally contains little or no
 </table>
 
 ### Tools
-Local-first applications require new capabilities across the traditional development stack.
 
 <table>
     <tr>
