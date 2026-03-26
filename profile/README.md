@@ -1,5 +1,8 @@
 <br /><br /><br /><br />
-<img src="https://brand.web4.dev/web4/header/dark.svg" />
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://brand.web4.dev/web4/header/dark.svg">
+	<img src="https://brand.web4.dev/web4/header/light.svg">
+</picture>
 <br /><br /><br /><br />
 
 ```html
