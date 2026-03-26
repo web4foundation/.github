@@ -163,7 +163,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
                 </picture>
             </a>
             <p>
-                Offline mode and query listeners with traditional SQL databases as the backing store
+                Operates similar to PgBouncer but enhances a subset of SQL for real-time query listeners and offline mode
             </p>
         </td>
         <td>
