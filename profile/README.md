@@ -148,7 +148,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
             <a href="https://github.com/web4foundation/restful2">
                 <picture>
                     <source srcset="https://brand.web4.dev/restful2/logo/dark.svg" media="(prefers-color-scheme: dark)">
-                    <img src="https://brand.web4.dev/restful2/logo/light.svg" style="height: 48px; max-width: auto">
+                    <img src="https://brand.web4.dev/restful2/logo/light.svg" style="height: 48px; min-width: 200px">
                 </picture>
             </a>
             <p>
@@ -159,7 +159,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
             <a href="https://github.com/web4foundation/syncql">
                 <picture>
                     <source srcset="https://brand.web4.dev/syncql/logo/dark.svg" media="(prefers-color-scheme: dark)">
-                    <img src="https://brand.web4.dev/syncql/logo/light.svg" style="height: 48px; max-width: auto">
+                    <img src="https://brand.web4.dev/syncql/logo/light.svg" style="height: 48px; min-width: 200px">
                 </picture>
             </a>
             <p>
@@ -170,7 +170,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
             <a href="https://github.com/web4foundation/system-ui">
                 <picture>
                     <source srcset="https://brand.web4.dev/system-ui/logo/dark.svg" media="(prefers-color-scheme: dark)">
-                    <img src="https://brand.web4.dev/system-ui/logo/light.svg" style="height: 48px; max-width: auto">
+                    <img src="https://brand.web4.dev/system-ui/logo/light.svg" style="height: 48px; min-width: 200px">
                 </picture>
             </a>
             <p>
