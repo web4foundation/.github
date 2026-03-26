@@ -39,7 +39,7 @@ Repos
 This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits into one of three categories.
 1) **SDKs**<br />Each language community can build independently without the burden of conflicting conventions and idioms.
 2) **Specs**<br />Contains no implementation code.  Used as a common area for cross-langage discussions, issues, benchmarks, documentation, and specifications.  
-3) **Tools**<br />Usually only implemented once in whatever language is the best tool for the job.
+3) **Tools**<br />Usually only implemented in one language – whichever is the best tool for the job.
 
 ### SDKs
 
