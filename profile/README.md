@@ -54,32 +54,26 @@ Specs, discussions, issues, and benchmarks.  Intentionally contains little or no
 
 <table>
     <tr>
-        <td style="width: 92px">
+        <td>
             <a href="https://github.com/web4foundation/xtml">
                 <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
             </a>
-        </td>
-        <td>
             <p>
                 eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
             </p>
         </td>
-        <td style="width: 92px">
+        <td>
             <a href="https://github.com/web4foundation/keyholes">
                 <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
             </a>
-        </td>
-        <td>
             <p>
                 A common abstraction for bridging into the DOM from WebAssembly or WebSockets
             </p>
         </td>
-        <td style="width: 92px">
+        <td>
             <a href="https://github.com/web4foundation/html-bench">
                 <img src="https://brand.web4.dev/html-bench/logo/dark.svg" style="width: 92px" />
             </a>
-        </td>
-        <td>
             <p>
                 A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
             </p>
