@@ -38,7 +38,7 @@ Repos
 
 This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits into one of three categories.
 1) **SDKs**<br />Each language community can build independently without the burden of conflicting conventions and idioms.
-2) **Specs**<br />Contains no implementation code.  Used as a common area for cross-langage discussions, issues, benchmarks, documentation, and specifications.  
+2) **Specs**<br />Contains no implementation code.  Used as a common area for cross-language discussions, issues, benchmarks, documentation, and specifications.  
 3) **Tools**<br />Usually only implemented in one language – whichever is the best tool for the job.
 
 ### SDKs
@@ -192,7 +192,7 @@ The story of the web is written in chapters not generations.  Generations replac
 | Web3 | Decentralized Computing | Smart contracts | Peer-to-peer | Transactional content<br /><sub>DeFi, digital ownership, etc</sub> |
 | Web4 | Edge Computing | Local-first apps | Edge-side / WASM | Function over content<br /><sub>utilities, games, collaborative, productivity, etc</sub> |
 
-Infrastructure for Edge Computing has reached an interesting tipping point recently where, thanks to geo-various datacenter buildouts, long-haul fiber installations, and even 5G rollouts, ubiquitous low latency has been achieved globally.  In a world where it’s possible to roundtrip to an edge server with lower latency than your screen’s own refresh rate, suddenly it makes sense to move a whole class of workloads off the client.  The architecture of these new edge-native opportunities are neither server-side, nor client-side, they are middle-out and must be local-first.
+Infrastructure for Edge Computing has reached an interesting tipping point recently where, thanks to geo-various datacenter build-outs, long-haul fiber installations, and even 5G rollouts, ubiquitous low latency has been achieved globally.  In a world where it’s possible to roundtrip to an edge server with lower latency than your screen’s own refresh rate, suddenly it makes sense to move a whole class of workloads off the client.  The architecture of these new edge-native opportunities are neither server-side, nor client-side, they are middle-out and must be local-first.
 
 ### A New Species: Local-First Apps (LFA)
 
