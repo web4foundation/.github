@@ -104,7 +104,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
 
 <table>
     <tr>
-        <td style="min-width: 150px">
+        <td>
             <a href="https://github.com/web4foundation/xtml">
                 <picture>
                     <source srcset="https://brand.web4.dev/xtml/logo/dark.svg" media="(prefers-color-scheme: dark)">
@@ -115,7 +115,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
                 eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
             </p>
         </td>
-        <td style="min-width: 150px">
+        <td>
             <a href="https://github.com/web4foundation/keyholes">
                 <picture>
                     <source srcset="https://brand.web4.dev/keyholes/logo/dark.svg" media="(prefers-color-scheme: dark)">
@@ -126,7 +126,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
                 A common abstraction for bridging into the DOM from WebAssembly or WebSockets
             </p>
         </td>
-        <td style="min-width: 150px">
+        <td>
             <a href="https://github.com/web4foundation/html-bench">
                 <picture>
                     <source srcset="https://brand.web4.dev/html-bench/logo/dark.svg" media="(prefers-color-scheme: dark)">
@@ -144,33 +144,33 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
 
 <table>
     <tr>
-        <td style="min-width: 150px">
+        <td>
             <a href="https://github.com/web4foundation/restful2">
                 <picture>
                     <source srcset="https://brand.web4.dev/restful2/logo/dark.svg" media="(prefers-color-scheme: dark)">
-                    <img src="https://brand.web4.dev/restful2/logo/light.svg" style="height: 48px">
+                    <img src="https://brand.web4.dev/restful2/logo/light.svg" style="height: 48px; min-width: 150px">
                 </picture>
             </a>
             <p>
                 RESTful APIs over WebSockets instead of HTTP<br /><code>fetch()</code> → <code>listen()</code>
             </p>
         </td>
-        <td style="min-width: 150px">
+        <td>
             <a href="https://github.com/web4foundation/syncql">
                 <picture>
                     <source srcset="https://brand.web4.dev/syncql/logo/dark.svg" media="(prefers-color-scheme: dark)">
-                    <img src="https://brand.web4.dev/syncql/logo/light.svg" style="height: 48px">
+                    <img src="https://brand.web4.dev/syncql/logo/light.svg" style="height: 48px; min-width: 150px">
                 </picture>
             </a>
             <p>
                 Operates similar to PgBouncer but enhances a subset of SQL for real-time query listeners and offline mode
             </p>
         </td>
-        <td style="min-width: 150px">
+        <td>
             <a href="https://github.com/web4foundation/system-ui">
                 <picture>
                     <source srcset="https://brand.web4.dev/system-ui/logo/dark.svg" media="(prefers-color-scheme: dark)">
-                    <img src="https://brand.web4.dev/system-ui/logo/light.svg" style="height: 48px">
+                    <img src="https://brand.web4.dev/system-ui/logo/light.svg" style="height: 48px; min-width: 150px">
                 </picture>
             </a>
             <p>
