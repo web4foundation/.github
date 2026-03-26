@@ -152,7 +152,7 @@ This GitHub org is organized to be an ecosystem of ecosystems.  Each repo fits i
                 </picture>
             </a>
             <p>
-                RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
+                RESTful APIs over WebSockets instead of HTTP<br /><code>fetch()</code> → <code>listen()</code>
             </p>
         </td>
         <td>
