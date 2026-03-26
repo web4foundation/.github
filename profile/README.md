@@ -1,6 +1,6 @@
 <br /><br /><br /><br />
 <picture>
-	<source media="(prefers-color-scheme: dark)" srcset="https://brand.web4.dev/web4/header/dark.svg">
+	<source srcset="https://brand.web4.dev/web4/header/dark.svg" media="(prefers-color-scheme: dark)">
 	<img src="https://brand.web4.dev/web4/header/light.svg">
 </picture>
 <br /><br /><br /><br />
@@ -43,36 +43,60 @@ Unique repos for each language so each ecosystem can maximize their own own idio
 
 #### Reference implementation
 <a href="https://github.com/web4foundation/web4-dotnet">
-    <img src="https://brand.web4.dev/sdks/dotnet/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/dotnet/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/dotnet/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 
 #### Contributors needed
 <a href="https://github.com/web4foundation/web4-java">
-    <img src="https://brand.web4.dev/sdks/java/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/java/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/java/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 <br /><br />
 <a href="https://github.com/web4foundation/web4-go">
-    <img src="https://brand.web4.dev/sdks/go/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/go/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/go/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 <br /><br />
 <a href="https://github.com/web4foundation/web4-kotlin">
-    <img src="https://brand.web4.dev/sdks/kotlin/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/kotlin/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/kotlin/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 <br /><br />
 <a href="https://github.com/web4foundation/web4-swift">
-    <img src="https://brand.web4.dev/sdks/swift/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/swift/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/swift/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 <br /><br />
 <a href="https://github.com/web4foundation/web4-javascript">
-    <img src="https://brand.web4.dev/sdks/javascript/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/javascript/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/javascript/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 <br /><br />
 <a href="https://github.com/web4foundation/web4-ruby">
-    <img src="https://brand.web4.dev/sdks/ruby/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/ruby/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/ruby/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 <br /><br />
 <a href="https://github.com/web4foundation/web4-python">
-    <img src="https://brand.web4.dev/sdks/python/dark/love.svg" style="width: 300px" />
+    <picture>
+        <source srcset="https://brand.web4.dev/sdks/python/dark/love.svg" media="(prefers-color-scheme: dark)">
+        <img src="https://brand.web4.dev/sdks/python/light/love.svg" style="width: 300px">
+    </picture>
 </a>
 
 ### Specs
@@ -82,7 +106,10 @@ Specs, discussions, issues, and benchmarks.  Intentionally contains little or no
     <tr>
         <td>
             <a href="https://github.com/web4foundation/xtml">
-                <img src="https://brand.web4.dev/xtml/logo/dark.svg" style="width: 92px" />
+                <picture>
+                    <source srcset="https://brand.web4.dev/xtml/logo/dark.svg" media="(prefers-color-scheme: dark)">
+                    <img src="https://brand.web4.dev/xtml/logo/light.svg" style="width: 92px">
+                </picture>
             </a>
             <p>
                 eXtramural Templating Markup Language – a hopeful W3C candidate recommendation for HTML6
@@ -90,7 +117,10 @@ Specs, discussions, issues, and benchmarks.  Intentionally contains little or no
         </td>
         <td>
             <a href="https://github.com/web4foundation/keyholes">
-                <img src="https://brand.web4.dev/keyholes/logo/dark.svg" style="width: 92px" />
+                <picture>
+                    <source srcset="https://brand.web4.dev/keyholes/logo/dark.svg" media="(prefers-color-scheme: dark)">
+                    <img src="https://brand.web4.dev/keyholes/logo/light.svg" style="width: 92px">
+                </picture>
             </a>
             <p>
                 A common abstraction for bridging into the DOM from WebAssembly or WebSockets
@@ -98,7 +128,10 @@ Specs, discussions, issues, and benchmarks.  Intentionally contains little or no
         </td>
         <td>
             <a href="https://github.com/web4foundation/html-bench">
-                <img src="https://brand.web4.dev/html-bench/logo/dark.svg" style="width: 92px" />
+                <picture>
+                    <source srcset="https://brand.web4.dev/html-bench/logo/dark.svg" media="(prefers-color-scheme: dark)">
+                    <img src="https://brand.web4.dev/html-bench/logo/light.svg" style="width: 92px">
+                </picture>
             </a>
             <p>
                 A neutral testing ground for languages to compare their approaches for server-side rendering and reconciliation
@@ -114,7 +147,10 @@ Local-first applications require new capabilities across the traditional develop
     <tr>
         <td>
             <a href="https://github.com/web4foundation/restful2">
-                <img src="https://brand.web4.dev/restful2/logo/dark.svg" style="height: 64px" />
+                <picture>
+                    <source srcset="https://brand.web4.dev/restful2/logo/dark.svg" media="(prefers-color-scheme: dark)">
+                    <img src="https://brand.web4.dev/restful2/logo/light.svg" style="height: 64px">
+                </picture>
             </a>
             <p>
                 RESTful APIs over WebSockets instead of HTTP: `fetch()` → `listen()`
@@ -122,7 +158,10 @@ Local-first applications require new capabilities across the traditional develop
         </td>
         <td>
             <a href="https://github.com/web4foundation/syncql">
-                <img src="https://brand.web4.dev/syncql/logo/dark.svg" style="height: 64px" />
+                <picture>
+                    <source srcset="https://brand.web4.dev/syncql/logo/dark.svg" media="(prefers-color-scheme: dark)">
+                    <img src="https://brand.web4.dev/syncql/logo/light.svg" style="height: 64px">
+                </picture>
             </a>
             <p>
                 Offline mode and query listeners with traditional SQL databases as the backing store
@@ -130,7 +169,10 @@ Local-first applications require new capabilities across the traditional develop
         </td>
         <td>
             <a href="https://github.com/web4foundation/system-ui">
-                <img src="https://brand.web4.dev/system-ui/logo/dark.svg" style="height: 64px" />
+                <picture>
+                    <source srcset="https://brand.web4.dev/system-ui/logo/dark.svg" media="(prefers-color-scheme: dark)">
+                    <img src="https://brand.web4.dev/system-ui/logo/light.svg" style="height: 64px">
+                </picture>
             </a>
             <p>
                 A component library that mimics the look-and-feel of its surrounding OS – one app, multiple design systems
