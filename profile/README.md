@@ -8,7 +8,8 @@
 ```html
 <!-- MyButton.html -->
 
-<script lang="C#">     <!-- ⬅︎ 🚨 ANY language! -->
+<script lang="C#">
+    // 🚨🚨🚨 ⬆︎ HTML supports ANY language!
     void OnClick(Event e)
     {
         c++;
@@ -16,13 +17,14 @@
 </script>
 
 <button onclick={e => OnClick(e)}>
-    Clicks:  {c}       <!-- ⬅︎ 🚨 Reactivity as an HTML-primitive, no framework! -->
+    Clicks:  {c}
+    <!--🚨🚨🚨 ⬆︎ HTML supports reactivity! -->
 </button>
 
 <!--
-  Compile your HTML!
-    • into a native binary for multiplayer-reactivity + zero-cost dependencies  (mutates the DOM from the server)
-    • into a WebAssembly binary for offline-reactivity + static hosting         (mutates the DOM from WASM)
+  Compile your HTML
+    • to a native binary for multiplayer-reactivity + zero-cost dependencies  (mutates the DOM from a WebSocket)
+    • to a WASM binary for offline-reactivity + static hosting                (mutates the DOM from WebAssembly)
 -->
 ```
 
