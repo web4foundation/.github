@@ -9,7 +9,7 @@
 <!-- MyButton.html -->
 
 <script lang="C#">
-    // 🚨🚨🚨 ⬆︎ HTML supports ANY language!
+    // 🚨🚨🚨 ⬆︎ HTML support for ANY language! 🚨🚨🚨
     void OnClick(Event e)
     {
         c++;
@@ -18,7 +18,7 @@
 
 <button onclick={e => OnClick(e)}>
     Clicks:  {c}
-    <!--🚨🚨🚨 ⬆︎ HTML supports reactivity! -->
+    <!--🚨🚨🚨 ⬆︎ HTML support for reactivity – no framework! 🚨🚨🚨-->
 </button>
 
 <!--
